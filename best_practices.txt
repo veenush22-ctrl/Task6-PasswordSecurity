@@ -1,0 +1,5 @@
+1. Use 12+ characters.
+2. Mix uppercase, lowercase, numbers, and symbols.
+3. Avoid dictionary words or personal info.
+4. Use unique passwords for each account.
+5. Enable Multi-Factor Authentication.
